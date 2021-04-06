@@ -27,7 +27,7 @@ body {
 .header-bold {
     font-weight: 600;
   }
-.paragraph-text{
+.header-text{
     color: hsl(229, 6%, 66%);
     width: 50%;
     text-align: center;
