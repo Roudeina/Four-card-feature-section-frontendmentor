@@ -27,3 +27,11 @@ body {
 .header-bold {
     font-weight: 600;
   }
+.paragraph-text{
+    color: hsl(229, 6%, 66%);
+    width: 50%;
+    text-align: center;
+    padding: 1.5rem 0 6rem 0;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
