@@ -138,3 +138,8 @@ body {
     font-style: italic;
     color: hsl(0, 78%, 62%);
   }
+  footer {
+    padding-top: 6rem;
+    font-size: 1.4rem;
+    text-align: center;
+  }
