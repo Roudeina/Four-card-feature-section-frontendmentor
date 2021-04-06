@@ -1,1 +1,29 @@
 
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+    font-family: "Poppins", sans-serif;
+    font-size: 62.5%;
+  }
+body {
+    background-color: hsla(228, 6%, 66%, 0.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 6rem 0rem 6rem 0rem;
+  }
+.header{
+    font-weight: 200;
+    font-size: 2.4rem;
+    width: 30rem;
+    text-align: center;
+    color: hsl(234, 12%, 34%);
+}
+.header-bold {
+    font-weight: 600;
+  }
